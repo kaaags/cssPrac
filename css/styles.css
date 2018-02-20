@@ -1,0 +1,23 @@
+body{
+	font-family: 'Indie Flower', cursive;
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgCeF5fnyo-1f2WpfM4fsCZsogui8KCa2HqdpnkKrTwWDaHc9Reg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+ol>li{
+	color: red;
+}
+
+p{
+	border: 1px dotted black;
+	margin: 20px;
+	padding: 10px;
+	box-shadow: 3px 6px orange;
+	border-radius: 30%;
+}
+
+p:hover{
+	background-color: salmon;
+	box-shadow: 5px 10px green;
+}
